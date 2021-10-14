@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 # Remote Mobile Developer, Prodemge 
 ⇢ Swift, Android Java / Kotlin, IONIC, React Native and Angular Developer<br />
   
-# Teacher - DEVinhouse SENAI SC 
-  HTML, Javascript and React Teacher <br />
-  
 # Hauck Tech and Software
 ⇢ System Documentation and Software Engineering.<br />
 ⇢ Full stack development using Node js, React Js, PHP, GraphQL and Typescript.<br />
