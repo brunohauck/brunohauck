@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 ### Work Expirience
 
+# Customer Onboarding Manager, Clevertap 
+⇢ Swift, Android Java / Kotlin, IONIC, Web, React Native, and Angular, development, and SDK configuration<br />
+⇢ Work directly with the customer success team for onboarding and configuration of Clevertap SDK on All mobile plataforms<br />
+⇢ Create samples apps using the Clevertap SDK<br />
+
+
 # Remote Mobile Developer, Prodemge 
 ⇢ Swift, Android Java / Kotlin, IONIC, React Native and Angular Developer<br />
   
@@ -105,6 +111,10 @@ Projects
 # DESKgeo
 
 # Startdev
+  
+# GPV Mineração
+  
+# OI Mainframe
 
 # SIPMobile
 
