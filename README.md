@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 
 
-### Work Expirience
+### Work Experience
 
 # Customer Onboarding Manager, Clevertap 
 ⇢ Swift, Android Java / Kotlin, IONIC, Web, React Native, and Angular, development, and SDK configuration<br />
-⇢ Work directly with the customer success team for onboarding and configuration of Clevertap SDK on All mobile plataforms<br />
+⇢ Work directly with the customer success team for onboarding and configuration of Clevertap SDK on All mobile platforms<br />
 ⇢ Create samples apps using the Clevertap SDK<br />
 
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  
 </div>
   
-### Previous Work Expirience
+### Previous Work Experience
   
 # Full Stack Developer, Bairesdev - Aug/2019 - 10/Nov/2019 - Belo Horizonte, MG
 ⇢ System Documentation and Software Engineering.<br />
