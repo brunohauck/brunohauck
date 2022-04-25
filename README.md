@@ -98,7 +98,7 @@ managed telecommunications clients
 ⇢ Maintained Linux and Windows servers
 Previous Experiences:
 ⇢ Linux and Windows Support Analyst at R2max. 
-⇢ Tecnical Security Analist on CW4
+⇢ Technical Security Analist on CW4
 ⇢ PHP and Front-end Develop Intern Multiweb
 ⇢ Linux and Windows Support Analyst Intern on Nansen
 
