@@ -2,7 +2,7 @@
 
 ## Welcome to Bruno Hauck Github / Resume
 
-Working in the development area for over 10 years, I had my first contact with a computer at 13 years old and was passionate at first sight and I even came up with a 14 year old Javascript HTML site in 1997. He worked at the Government of Minas, education, health and Civil Police companies. Has extensive experience developing Mobile solutions on Android Java, Android Kotlin, React Native, IONIC and Flutter. Over 6 years of experience as a Mobile Technologies Teacher mainly Android Java and Android Koltin. Besides the vast experience with mobile has a fullstack profile in PHP, Angular, React.js, Javascript, Java, CSS, HTML, SQL. Also has extensive knowledge on Amazon servers, Devops tools like Docker, Jenkins and Heroku. Working remotely, for the past 3 months he has worked at Bairesdev as a Fullstack developer. In parallel in his spare time, he worked as a freelance and startup partner on Android technologies Kotlin, PHP Developer, IONIC, Angular, Node.js and React.js. Previously, she worked as a team to develop a Facial Recognition application for the Civil Police of the Government of Minas Gerais. Professor of the AFM - Front End Architecture for Mobile course at IGTI College and also serves as a final advisor on the Mobile Development MBA course. He is a specialist in Mobile Systems, Web and Networks and a Computer Science graduate, a postgraduate degree in Computer Networking and currently completing a Master's degree in Software Engineering.
+Working in the development area for over 17 years, I had my first contact with a computer at 14 years old and was passionate at first sight and I even came up with a 14-year-old Javascript HTML site in 1997. He worked at the Government of Minas, education, health, and Civil Police companies. Has extensive experience developing Mobile solutions on Android Java, Android Kotlin, React Native, IONIC, and Flutter. Over 6 years of experience as a Mobile Technologies Teacher mainly Android Java, Angular, React, React Native, and Android Koltin. Besides the vast experience with mobile has a full-stack profile in PHP, Angular, React.js, Javascript, Java, CSS, HTML, and SQL. Also has extensive knowledge of Amazon servers, and DevOps tools like Docker, Jenkins, and Heroku. Working remotely, for the past 4 years he has worked at Bairesdev as a Fullstack developer. In parallel in his spare time, he worked as a freelance and startup partner on Android technologies Kotlin, PHP Developer, IONIC, Angular, Node.js, and React.js. Previously, she worked as a team to develop a facial recognition application for the Civil Police of the Government of Minas Gerais. Professor of the AFM - Front End Architecture for Mobile course at Xp Educação College and also serves as a final advisor on the Mobile Development MBA course. He is a specialist in Mobile Systems, Web, and Networks. Computer Science graduate, a postgraduate degree in Computer Networking, a Master's degree in Software Engineering, and an MBA in Agile Development.
 
 
 
@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 ### Work Experience
 
-# Customer Onboarding Manager, Clevertap 
+# Customer Onboarding Manager, Clevertap - Dec 2023 
 ⇢ Swift, Android Java / Kotlin, IONIC, Web, React Native, and Angular, development, and SDK configuration<br />
 ⇢ Work directly with the customer success team for onboarding and configuration of Clevertap SDK on All mobile platforms<br />
 ⇢ Create samples apps using the Clevertap SDK<br />
 
 
-# Remote Mobile Developer, Prodemge 
+# Remote Mobile Developer, Prodemge - Dec 2021
 ⇢ Swift, Android Java / Kotlin, IONIC, React Native and Angular Developer<br />
   
-# Hauck Tech and Software
+# Hauck Tech and Software - Current
 ⇢ System Documentation and Software Engineering.<br />
 ⇢ Full stack development using Node js, React Js, PHP, GraphQL and Typescript.<br />
 ⇢ Organized Android training<br />
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
   
   ##
- 
+ --- 1
 <div> 
   <a href="https://www.youtube.com/channel/UClJThqbUwg0RXrizVnf8GAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/brunohauck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -60,10 +60,16 @@ Here are some ideas to get you started:
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:brunohauck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-hauck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ --- 2
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ --- 3
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
 ### Previous Work Experience
   
