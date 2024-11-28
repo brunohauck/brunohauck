@@ -14,9 +14,21 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, Angular or IONIC
 - 📫 How to reach me: brunohauck@gmail.com
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bruno-h-ferreira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/bruno-h-ferreira?trk=profile-badge">Prof. Bruno Hauck</a></div>
+              
 
 ### Work Experience
+
+# Product Manager, Remotinho dos Sonhos 
+⇢ Product Manager
+⇢ Manage a remote team to build a job board and news feed system to promote job opportunities for the Remotinho dos Sonhos community.
+⇢ We are using Spring Boot for the back-end and React with Gatsby for the front-end. In the future, we plan to build a prototype of a technology forum using Next.js.
+⇢ I also assist in mentoring developers with prototyping, documentation, and some implementation of the system.
+
+# Senior Software Developer, NTT Data  - Nov 2024
+⇢ Senior Software Developer 
+⇢ React, Angular, and Python.
+⇢ Managing FinOps, devOps and AWS projects using Lambda RDS Python Angular on the front-end.
 
 # Customer Onboarding Manager, Clevertap - Dec 2023 
 ⇢ Swift, Android Java / Kotlin, IONIC, Web, React Native, and Angular, development, and SDK configuration<br />
