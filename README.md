@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 ### Work Experience
 
 # Product Manager, Remotinho dos Sonhos 
-⇢ Product Manager
-⇢ Manage a remote team to build a job board and news feed system to promote job opportunities for the Remotinho dos Sonhos community.
-⇢ We are using Spring Boot for the back-end and React with Gatsby for the front-end. In the future, we plan to build a prototype of a technology forum using Next.js.
-⇢ I also assist in mentoring developers with prototyping, documentation, and some implementation of the system.
+⇢ Product Manager<br />
+⇢ Manage a remote team to build a job board and news feed system to promote job opportunities for the Remotinho dos Sonhos community.<br />
+⇢ We are using Spring Boot for the back-end and React with Gatsby for the front-end. In the future, we plan to build a prototype of a technology forum using Next.js.<br />
+⇢ I also assist in mentoring developers with prototyping, documentation, and some implementation of the system.<br />
 
 # Senior Software Developer, NTT Data  - Nov 2024
-⇢ Senior Software Developer 
-⇢ React, Angular, and Python.
-⇢ Managing FinOps, devOps and AWS projects using Lambda RDS Python Angular on the front-end.
+⇢ Senior Software Developer <br />
+⇢ React, Angular, and Python.<br />
+⇢ Managing FinOps, devOps and AWS projects using Lambda RDS Python Angular on the front-end.<br />
 
 # Customer Onboarding Manager, Clevertap - Dec 2023 
 ⇢ Swift, Android Java / Kotlin, IONIC, Web, React Native, and Angular, development, and SDK configuration<br />
