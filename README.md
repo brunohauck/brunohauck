@@ -2,7 +2,7 @@
 
 ## Welcome to Bruno Hauck Github / Resume
 
-Working in the development area for over 17 years, I had my first contact with a computer at 14 years old and was passionate at first sight and I even came up with a 14-year-old Javascript HTML site in 1997. He worked at the Government of Minas, education, health, and Civil Police companies. Has extensive experience developing Mobile solutions on Android Java, Android Kotlin, React Native, IONIC, and Flutter. Over 6 years of experience as a Mobile Technologies Teacher mainly Android Java, Angular, React, React Native, and Android Koltin. Besides the vast experience with mobile has a full-stack profile in PHP, Angular, React.js, Javascript, Java, CSS, HTML, and SQL. Also has extensive knowledge of Amazon servers, and DevOps tools like Docker, Jenkins, and Heroku. Working remotely, for the past 4 years he has worked at Bairesdev as a Fullstack developer. In parallel in his spare time, he worked as a freelance and startup partner on Android technologies Kotlin, PHP Developer, IONIC, Angular, Node.js, and React.js. Previously, she worked as a team to develop a facial recognition application for the Civil Police of the Government of Minas Gerais. Professor of the AFM - Front End Architecture for Mobile course at Xp Educação College and also serves as a final advisor on the Mobile Development MBA course. He is a specialist in Mobile Systems, Web, and Networks. Computer Science graduate, a postgraduate degree in Computer Networking, a Master's degree in Software Engineering, and an MBA in Agile Development.
+Working in the development area for over 18 years, I had my first contact with a computer at 14 years old and was passionate at first sight and I even came up with a 14-year-old Javascript HTML site in 1997. He worked at the Government of Minas, education, health, and Civil Police companies. Has extensive experience developing Mobile solutions on Android Java, Android Kotlin, React Native, IONIC, and Flutter. Over 6 years of experience as a Mobile Technologies Teacher mainly Android Java, Angular, React, React Native, and Android Koltin. Besides the vast experience with mobile has a full-stack profile in PHP, Angular, React.js, Javascript, Java, CSS, HTML, and SQL. Also has extensive knowledge of Amazon servers, and DevOps tools like Docker, Jenkins, and Heroku. Working remotely, for the past 4 years he has worked at Bairesdev as a Fullstack developer. In parallel in his spare time, he worked as a freelance and startup partner on Android technologies Kotlin, PHP Developer, IONIC, Angular, Node.js, and React.js. Previously, she worked as a team to develop a facial recognition application for the Civil Police of the Government of Minas Gerais. Professor of the AFM - Front End Architecture for Mobile course at Xp Educação College and also serves as a final advisor on the Mobile Development MBA course. He is a specialist in Mobile Systems, Web, and Networks. Computer Science graduate, a postgraduate degree in Computer Networking, a Master's degree in Software Engineering, and an MBA in Agile Development.
 
 
 
@@ -19,13 +19,18 @@ Here are some ideas to get you started:
 
 ### Work Experience
 
+# Senior Software Developer, Meta  - Current
+⇢ Senior Software Developer <br />
+⇢ React, Angular, and IONIC <br />
+
+
 # Product Manager, Remotinho dos Sonhos 
 ⇢ Product Manager<br />
 ⇢ Manage a remote team to build a job board and news feed system to promote job opportunities for the Remotinho dos Sonhos community.<br />
 ⇢ We are using Spring Boot for the back-end and React with Gatsby for the front-end. In the future, we plan to build a prototype of a technology forum using Next.js.<br />
 ⇢ I also assist in mentoring developers with prototyping, documentation, and some implementation of the system.<br />
 
-# Senior Software Developer, NTT Data  - Nov 2024
+# Senior Software Developer, NTT Data  - Dec 2024
 ⇢ Senior Software Developer <br />
 ⇢ React, Angular, and Python.<br />
 ⇢ Managing FinOps, devOps and AWS projects using Lambda RDS Python Angular on the front-end.<br />
