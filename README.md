@@ -18,8 +18,11 @@ Here are some ideas to get you started:
               
 
 ### Work Experience
+# Senior Software Developer, GeoControle  - Current
+⇢ Senior Software Developer <br />
+⇢ React, React Native, Node Js, Docker, and Python <br /> 
 
-# Senior Software Developer, Meta  - Current
+# Senior Software Developer, Meta  
 ⇢ Senior Software Developer <br />
 ⇢ React, Angular, and IONIC <br />
 
