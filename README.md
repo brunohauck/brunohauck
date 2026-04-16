@@ -51,7 +51,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, Angular or IONIC
 - 📫 How to reach me: brunohauck@gmail.com
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bruno-h-ferreira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/bruno-h-ferreira?trk=profile-badge">Prof. Bruno Hauck</a></div>
+<h1 align="center">Bruno Hauck</h1>
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/bruno-h-ferreira">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO" />
+</p>
               
 
 ### Work Experience
