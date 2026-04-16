@@ -2,9 +2,46 @@
 
 ## Welcome to Bruno Hauck Github / Resume
 
-Working in the development area for over 18 years, I had my first contact with a computer at 14 years old and was passionate at first sight and I even came up with a 14-year-old Javascript HTML site in 1997. He worked at the Government of Minas, education, health, and Civil Police companies. Has extensive experience developing Mobile solutions on Android Java, Android Kotlin, React Native, IONIC, and Flutter. Over 6 years of experience as a Mobile Technologies Teacher mainly Android Java, Angular, React, React Native, and Android Koltin. Besides the vast experience with mobile has a full-stack profile in PHP, Angular, React.js, Javascript, Java, CSS, HTML, and SQL. Also has extensive knowledge of Amazon servers, and DevOps tools like Docker, Jenkins, and Heroku. Working remotely, for the past 4 years he has worked at Bairesdev as a Fullstack developer. In parallel in his spare time, he worked as a freelance and startup partner on Android technologies Kotlin, PHP Developer, IONIC, Angular, Node.js, and React.js. Previously, she worked as a team to develop a facial recognition application for the Civil Police of the Government of Minas Gerais. Professor of the AFM - Front End Architecture for Mobile course at Xp Educação College and also serves as a final advisor on the Mobile Development MBA course. He is a specialist in Mobile Systems, Web, and Networks. Computer Science graduate, a postgraduate degree in Computer Networking, a Master's degree in Software Engineering, and an MBA in Agile Development.
+Working in the development area for over 18 years, I had my first contact with a computer at 14 years old and was passionate at first sight and I even came up with a 14-year-old Javascript HTML site in 1997. 
 
+Dynamic IT professional with strong interpersonal skills, dedicated, reliable, and results-driven. With 18 years of experience in software development, I specialize in mobile and full-stack development, technical leadership, and project management. I am passionate about building scalable solutions, mentoring developers, and contributing to innovative technology projects that drive business growth.
 
+I also have 2 years of experience as a Mobile Project Manager, leading mobile development initiatives and managing customer onboarding processes.
+
+Professional Experience
+Tech Lead / Tech Manager / Full-Stack Mobile Developer — 18 years of experience
+Extensive experience in software development using modern technologies and frameworks, with a strong background in mobile, web, and backend development. Proven ability to lead teams, design scalable architectures, and deliver high-quality solutions.
+Technologies and languages used throughout my career include Java, Android (Java/Kotlin), TypeScript, JavaScript, PHP, and other modern development tools.
+
+In addition to development, I have experience supporting IT infrastructure, including wired and wireless networks, Windows and Linux server administration, information security, ERP systems, and Help Desk operations.
+
+Technical Skills
+Programming Languages
+Java, JavaScript, Typescript, Android (Java), Android Kotlin, PHP, Natural
+
+Frameworks & Technologies
+JSF 2, Angular (15+), jQuery, CodeIgniter, CakePHP, Spring, Express JS, Nest JS, Ionic, Node.js, React.js, React Native
+
+Infrastructure & Cloud
+Heroku, DigitalOcean, AWS, Linux, WAN/LAN Networks, Firewalls, IDS (Snort), Incident Management, Antivirus, Windows Server, Mainframe environments
+
+Teaching & Mentorship
+Trainer and mentor in modern development technologies, including:
+Android Development
+React.js
+React Native
+Ionic 6+
+Kotlin
+Angular 10+
+
+Creator of the Mentor Nerd educational content focused on programming and technology.
+YouTube Channel:
+https://www.youtube.com/@mentornerd
+Contact
+
+For business, collaborations, or consulting opportunities:
+Email: brunohauck@gmail.com
+WhatsApp: +55 31 98872-4779
 
 Here are some ideas to get you started:
 
