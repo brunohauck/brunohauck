@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact" />
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunohauck&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohauck&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=brunohauck" />
 </p>
               
 
