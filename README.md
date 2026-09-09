@@ -45,24 +45,18 @@ WhatsApp: +55 31 98872-4779
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Mobile Developer
-- 🌱 I’m currently learning Go Lang
+- 🔭 I’m currently working as a Full Stack Developer - React, React Native
+- 🌱 I’m currently learning Go Lang, Langchain and IA Rag Agents
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about React, Angular or IONIC
+- 💬 Ask me about React, React Native, Angular or IONIC
 - 📫 How to reach me: brunohauck@gmail.com
 
 <h1 align="center">Bruno Hauck</h1>
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/bruno-h-ferreira">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brunoliberohauck/">LinkedIn</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunohauck&show_icons=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohauck&layout=compact" />
-  <img src="https://streak-stats.demolab.com?user=brunohauck" />
-</p>
-              
+        
 
 ### Work Experience
 # Senior Software Developer, GeoControle  - Current
@@ -80,7 +74,7 @@ Here are some ideas to get you started:
 ⇢ We are using Spring Boot for the back-end and React with Gatsby for the front-end. In the future, we plan to build a prototype of a technology forum using Next.js.<br />
 ⇢ I also assist in mentoring developers with prototyping, documentation, and some implementation of the system.<br />
 
-# Senior Software Developer, NTT Data  - Dec 2024
+# Lead Senior Software Developer, NTT Data  - Dec 2024
 ⇢ Senior Software Developer <br />
 ⇢ React, Angular, and Python.<br />
 ⇢ Managing FinOps, devOps and AWS projects using Lambda RDS Python Angular on the front-end.<br />
@@ -90,8 +84,7 @@ Here are some ideas to get you started:
 ⇢ Work directly with the customer success team for onboarding and configuration of Clevertap SDK on All mobile platforms<br />
 ⇢ Create samples apps using the Clevertap SDK<br />
 
-
-# Remote Mobile Developer, Prodemge - Dec 2021
+# Tech Lead - Mobile Developer, Prodemge - Dec 2021
 ⇢ Swift, Android Java / Kotlin, IONIC, React Native and Angular Developer<br />
   
 # Hauck Tech and Software - Current
