@@ -13,7 +13,7 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;Degree+in+Systems+Analysis+and+Development;Let's+be+friends!;Jesus+is+my+King.;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;Degree+in+degree+Computer+Science;Let's+be+friends!;Jesus+is+my+King.;" alt="Typing SVG"/>
 </div>
 
 <br>
