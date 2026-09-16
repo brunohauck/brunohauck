@@ -88,8 +88,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about React, React Native, Angular or IONIC
 - 📫 How to reach me: brunohauck@gmail.com
 
-<h1 align="center">Bruno Hauck</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/brunoliberohauck/">LinkedIn</a>
 </p>
