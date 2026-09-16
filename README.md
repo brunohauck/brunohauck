@@ -1,6 +1,43 @@
-### Hi there!   👋
-
 ## Welcome to Bruno Hauck Github / Resume
+
+<div align="center">
+  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+</div>
+
+<div align="center">
+  <samp>
+      <br>
+      Hi there! I'm <b> Bruno Hauck </b> Software Engineer 
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;Degree+in+Systems+Analysis+and+Development;Let's+be+friends!;Jesus+is+my+King.;" alt="Typing SVG"/>
+</div>
+
+<br>
+
+      
+<div align="center">
+  
+</div>
+
+<div align="center" style="display: inline_block"><br>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+
+
 
 Working in the development area for over 18 years, I had my first contact with a computer at 14 years old and was passionate at first sight and I even came up with a 14-year-old Javascript HTML site in 1997. 
 
