@@ -37,7 +37,7 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-
+<br />
 
 Working in the development area for over 18 years, I had my first contact with a computer at 14 years old and was passionate at first sight and I even came up with a 14-year-old Javascript HTML site in 1997. 
 
